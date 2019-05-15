@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Receta App</string>
+    <string name="nombre_receta">Nombre</string>
+    <string name="personas_receta">Cantidad personas</string>
+    <string name="descripcion_receta">Descripcion receta</string>
+    <string name="preparacion_receta">Modo de preparación de la receta</string>
+
+</resources>
